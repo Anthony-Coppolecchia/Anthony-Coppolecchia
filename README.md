@@ -43,4 +43,4 @@ Welcome to my GitHub! I'm a cybersecurity graduate with hands-on experience in s
 
 ##  Contact 
 
--  [LinkedIn](https:www.linkedin.com/in/anthonycoppolecchia) 
+-  [LinkedIn](https://www.linkedin.com/in/anthonycoppolecchia) 
