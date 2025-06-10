@@ -37,8 +37,10 @@ Welcome to my GitHub! I'm a cybersecurity graduate with hands-on experience in s
 ##  What I'm Working On 
 
 - Adding phishing simulation and various other projects to my homelab  
-- Pursuing CompTIA Security+ and additional Microsoft, google, and CISSP security certifications 
-**Off the Clock you'll find me either scuba diving, fishing, surfing, or at a race track (Formula 1)**
+- Pursuing CompTIA Security+ and additional Microsoft, google, and CISSP security certifications  
+
+  
+Off the Clock you'll find me either scuba diving, fishing, surfing, or at a race track (Formula 1)  
 ---
 
 ##  Contact 
